@@ -5,9 +5,12 @@
 
 ## Machine Learning in Production
 
-### Boston Housing Example: 
+### Predicting Boston Housing Prices: 
 
 Using Boston Housing Data with [XGBoost](https://xgboost.readthedocs.io/en/latest/) algorithm to try out all of SageMaker's features. High level & low level tutorials using SageMaker.
+
+#### Boston Housing - XGBoost (Batch Transform) - High Level
+
 
 ### Mini Project: IMDB Sentiment Analysis
 
